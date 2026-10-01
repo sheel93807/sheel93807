@@ -1,4 +1,4 @@
-# Hi, I'm Jake 👋
+# Hello, I'm Jake 👋
  
 📊 Data Analyst
  
