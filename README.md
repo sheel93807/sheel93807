@@ -1,8 +1,19 @@
-- I’m a data analyst who just graduated with my Master’s in Applied Data Analytics from Appalachian State University in December 2024.
-- I’m passionate about turning data into meaningful insights to solve real-world problems.
-
-- 👀 I’m interested in: Data analysis, visualization, process improvement, and tools like Python, SQL, R-Studio, Tableau, and SAS Viya.
-- 🌱 I’m currently learning: Power BI, advanced machine learning techniques, and big data processing.
-- 💞️ I’m looking to collaborate on: Projects involving data-driven solutions, dashboards, and storytelling through data.
-- 📫 How to reach me: sheelerjc@gmail.com or LinkedIn.
-
+# Hi, I'm Jake 👋
+ 
+📊 Data Analyst
+ 
+🎓 M.S. in Applied Data Analytics
+ 
+💻 Python • SQL • Power BI
+ 
+📈 Passionate about data visualization, analytics, and turning complex data into actionable insights.
+ 
+## 🚀 Featured Projects
+ 
+🏥 Hospital Price Transparency Analysis
+ 
+📞 Telecommunications Customer Churn Analysis
+ 
+## 📫 Connect With Me
+ 
+💼 LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/jake-sheeler-07b924236/)
