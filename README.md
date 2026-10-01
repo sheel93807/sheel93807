@@ -16,4 +16,4 @@
  
 ## 📫 Connect With Me
  
-💼 LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/jake-sheeler-07b924236/)
+💼 LinkedIn: (https://www.linkedin.com/in/jake-sheeler-07b924236/)
